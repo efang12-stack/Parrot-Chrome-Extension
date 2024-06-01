@@ -4,6 +4,6 @@ This is a project utilizing the tech stack of React, Flask, and the OpenAI API i
 
 In the future, we hope to expand it where the user can speak about the selection they want and our extension will automatically return a selection through image processing of the closest match. Below is a demonstration of our product currently:
 
-https://youtu.be/cIvz-tw4UxQ?si=WQWoN86-ckNEYvdJ
 
-[![Parrot Demo Video]](https://youtu.be/cIvz-tw4UxQ?si=WQWoN86-ckNEYvdJ)
+[![Parrot Demo Video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/cIvz-tw4UxQ?si=WQWoN86-ckNEYvdJ)
+
