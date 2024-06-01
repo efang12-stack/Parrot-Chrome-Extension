@@ -5,5 +5,5 @@ This is a project utilizing the tech stack of React, Flask, and the OpenAI API i
 In the future, we hope to expand it where the user can speak about the selection they want and our extension will automatically return a selection through image processing of the closest match. Below is a demonstration of our product currently:
 
 
-[![Parrot Demo Video](http://img.youtube.com/vi/VIDEO_ID/0.jp)](https://youtu.be/cIvz-tw4UxQ?si=WQWoN86-ckNEYvdJ)
+[![Parrot Demo Video](file:///Users/ethan/Desktop/Convergent/Convergent-Extension/frontend/dist/icons/Frame13.png)](https://youtu.be/cIvz-tw4UxQ?si=WQWoN86-ckNEYvdJ)
 
