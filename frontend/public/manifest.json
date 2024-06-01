@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Parrot Screen Reader",
+  "version": "1.0.0",
+  "description": "A Chrome screen reader extension built with React, TypeScript, and Vite.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icons/Frame13.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/index.html", "dist/assets/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
